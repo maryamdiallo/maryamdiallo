@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Maryam Diallo
 
-I'm an aspiring Backend and Cloud Engineer, currently a software development trainee at YearUp United. Passionate about building scalable backend systems and cloud solutions, I also have experience as a Fulani interpreter, bridging communication gaps in diverse settings.
+As a software development trainee at YearUp United, I'm on a journey to become a skilled Backend and Cloud Engineer. My passion lies in building scalable backend systems and innovative cloud solutions. Additionally, my experience as a Fulani interpreter has equipped me with strong communication skills and the ability to bridge cultural divides effectively.
 
 ## 🔧 Technologies & Tools
 
