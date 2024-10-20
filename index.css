@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+/* Set background color of the body */
+body {
+    background-color: lightskyblue;
+}
+
+/* Style rule for the table element */
+table {
+    border: 1px solid black;
+    background-color: rgb(244, 226, 30);
+    margin-top: 25px;
+}
+
+/* Style rule for the table caption */
+caption {
+    caption-side: top;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+/* Style rule for the ordered list */
+ol {
+    padding-right: 10px;
+}
+
+/* Style rule for the figure */
+figure {
+    border: 2px solid blue;
+}
+
+/* Style rule for the figure caption */
+figcaption {
+    text-align: center;
+}
+
+/* Style rule for the image */
+img {
+    padding: 10px;
+    width: 150px;
+}
