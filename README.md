@@ -7,7 +7,6 @@ Outside of work, I enjoy cooking, trying new recipes, and staying connected to m
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, SQL, MySQL
-- **Web Development:** Node.js, Angular2
 - **Version Control:** Git
 - **Databases:** MySQL, MS SQL, Access
 - **Cloud Platforms:** AWS
