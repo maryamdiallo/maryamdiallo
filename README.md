@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Maryam Diallo
+# Hi there 👋, 
 
 Hi, I’m Maryam — a tech professional with a background in Linux system administration, data analysis, and software development. I currently work as a data analyst at LinkedIn, where I support onboarding initiatives that improve the employee experience and boost operational efficiency. I’m RHCSA-certified and studying for my CompTIA Security+ certification, with a growing focus on cybersecurity and SOC roles. I’m also working toward my degree in Computer Information Systems, gaining both academic and hands-on experience across multiple areas of tech.
 
